@@ -1,11 +1,16 @@
 _repo: Hilaire-Belloc-A-Study-in-Christian-Integration_66856
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66856-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilhelmsen, Frederick
     gutenberg_agent_id: '53991'
     url: http://www.gutenberg.org/2009/agents/53991
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66856#Hilaire-Belloc-A-Study-in-Christian-Integration
 gutenberg_issued: '2021-11-30'
 identifiers:
   gutenberg: '66856'
